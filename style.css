@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://wallpapers.com/images/hd/magnificent-mountain-nature-d3yzyxgb67h2z8u1.jpg);
+}
+h1{
+    color: white;
+    text-decoration: underline;
+}
+.box{
+    height: 450px;
+    width: 800px;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin: 0 auto;
+    background-color: transparent;
+}
+button{
+    position: relative;
+    top: 400px;
+    float: right;
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width: 130px;
+    border-radius: 20px;
+    border: 2px solid black;
+    font-size: 15px;
+}
+button:hover{
+    background-color: rgb(4, 4, 43);
+}
+img{
+    left: 200px;
+    position: relative;
+    top: 50px;
+    font-size: 100px;
+    border: 5px solid black;
+}
+   
